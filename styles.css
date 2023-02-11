@@ -1,16 +1,12 @@
-#app{
-  height:90vh;
+main:hover{
+	background-color: black;
+	width: 100px:
+	
 }
-.night{
-  background-color: black;
-  color:white;
+#ptag{
+	color: cyan;
 }
-
-#swap{
-  outline:0;
-}
-
 .button_night{
-  background-color:blue;
-  color:white; 
+	 text-align: center;
+	
 }
